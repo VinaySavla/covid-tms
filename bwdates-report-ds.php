@@ -37,7 +37,7 @@ echo "<script>window.location.href='registered-user-testing.php'</script>";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 TMS | B/w Dates Report Date Selection</title>
+    <title>Blood-19 TMS | B/w Dates Report Date Selection</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

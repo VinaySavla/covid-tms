@@ -37,7 +37,7 @@ echo '<script>alert("Your current password is wrong.")</script>';
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 Testing Management System | Change Password</title>
+    <title>Blood Testing Management System | Change Password</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

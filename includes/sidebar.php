@@ -6,7 +6,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-virus"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">COVID19-TMS</div>
+                <div class="sidebar-brand-text mx-3">Test Management System</div>
             </a>
 
             <!-- Divider -->
@@ -81,7 +81,7 @@
 
             <!-- Heading -->
             <div class="sidebar-heading">
-                COVID19 Testing
+                Blood Testing
             </div>
 
             <!-- Nav Item - Pages Collapse Menu -->

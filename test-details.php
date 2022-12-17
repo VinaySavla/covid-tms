@@ -77,7 +77,7 @@ endif;
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 Testing Management System | Test Details</title>
+    <title>Blood Testing Management System | Test Details</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

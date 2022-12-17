@@ -30,7 +30,7 @@ if(isset($_POST['login']))
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid 19 Testing Management System | Admin Login</title>
+    <title>Blood Testing Management System | Admin Login</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -51,7 +51,7 @@ if(isset($_POST['login']))
         <div class="row justify-content-center">
 
             <div class="col-xl-10 col-lg-12 col-md-9">
- <h3 align="center" style="margin-top:4%;color:#fff">Covid Testing Management System</h3>
+ <h3 align="center" style="margin-top:4%;color:#fff">Blood Testing Management System</h3>
                 <div class="card o-hidden border-0 shadow-lg my-5">
 
                     <div class="card-body p-0">

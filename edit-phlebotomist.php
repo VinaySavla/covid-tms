@@ -37,7 +37,7 @@ echo "<script>window.location.href='manage-phlebotomist.php'</script>";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 Testing Management System | Edit Phlebotomist</title>
+    <title>Blood Testing Management System | Edit Phlebotomist</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

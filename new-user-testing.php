@@ -12,7 +12,7 @@ $dob=$_POST['dob'];
 $govtid=$_POST['govtissuedid'];
 $govtidnumber=$_POST['govtidnumber'];
 $address=$_POST['address'];
-$state=$_POST['state'];
+$state=strtoupper($_POST['state']);
 $testtype=$_POST['testtype'];
 $timeslot=$_POST['birthdaytime'];
 $orderno= mt_rand(100000000, 999999999);
@@ -41,7 +41,7 @@ echo "<script>window.location.href='new-user-testing.php'</script>";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 Testing Management System | New User Testing</title>
+    <title>Blood Testing Management System | New User Testing</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -98,7 +98,7 @@ error:function (){}
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Covid19-Testing</h1>
+                    <h1 class="h3 mb-4 text-gray-800">Blood-Testing</h1>
 <form name="newtesting" method="post">
   <div class="row">
 
@@ -158,9 +158,9 @@ error:function (){}
                                               <label>Test Type</label>
                                               <select class="form-control" id="testtype" name="testtype" required="true">
                                             <option value="">Select</option> 
-                                            <option value="Antigen">Antigen</option>  
-                                            <option value="RT-PCR">RT-PCR</option>
-                                            <option value="CB-NAAT">CB-NAAT</option>    
+                                            <option value="CBC">CBC</option>  
+                                            <option value="PCR">PCR</option>
+                                            <option value="LipidPanel">Lipid Panel</option>    
                                               </select>
                                         </div>
 

@@ -32,7 +32,7 @@ echo "<script>window.location.href='registered-user-testing.php'</script>";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 Testing Management System</title>
+    <title>Blood Testing Management System</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -73,7 +73,7 @@ label{
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Covid19-Testing | Already Registeres Users</h1>
+                    <h1 class="h3 mb-4 text-gray-800">Blood-Testing | Already Registeres Users</h1>
 
 <form method="post">
   <div class="row">
@@ -168,8 +168,9 @@ label{
                                               <label>Test Type</label>
                                               <select class="form-control" id="testtype" name="testtype" required="true">
                                             <option value="">Select</option> 
-                                            <option value="Antigen">Antigen</option>  
-                                            <option value="RT-PCR">RT-PCR</option>   
+                                            <option value="CBC">CBC</option>  
+                                            <option value="PCR">PCR</option>
+                                            <option value="LipidPanel">Lipid Panel</option>  
                                               </select>
                                         </div>
 

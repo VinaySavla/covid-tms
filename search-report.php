@@ -21,7 +21,7 @@ if (strlen($_SESSION['aid']==0)) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Covid-19 TMS | Search Report</title>
+    <title>Blood TMS | Search Report</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
