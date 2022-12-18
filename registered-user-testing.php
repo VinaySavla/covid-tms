@@ -100,7 +100,7 @@ label{
 
 <hr />
 <?php if(isset($_POST['search'])){ ?>
-<h3 align="center" style="color:red">Resulst againt mobile number "<?php echo $_POST['regmobilenumber'];?>"</h3>
+<h3 align="center" style="color:red">Results againt mobile number "<?php echo $_POST['regmobilenumber'];?>"</h3>
 <hr />
     <?php
     $mnumber=intval($_POST['regmobilenumber']);
